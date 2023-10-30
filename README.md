@@ -1,4 +1,6 @@
-### Hi there 👋
+### heyo
+trying to learn full stack dev
+hopefully some datasci down the line
 
 <!--
 **MrLoganHopper/MrLoganHopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
